@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "OurPathApp",
+    "description": "This project is really great.",
+    "slug": "AwesomeProject",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconlogo.png",
+    "splash": {
+      "image": "./assets/splashlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3797D3"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
